@@ -71,7 +71,7 @@ int main()
     double sigK = 10.0; // Signal Frequency
     double sigAmp = 1.0; // Signal Amplitude
     double sigPhase = 0.0; // Signal Phase
-    //double sigPhase = M_PI / 2.0; // Try this phase out - 180 degrees out of phase
+    //double sigPhase = M_PI / 2.0; // Try this phase out - 90 degrees out of phase
     //double sigPhase = M_PI / 4.0; // Try this phase out - 45 degrees out of phase
 
     // Create complex Input Signal by computing each sample (currentSample) from 0 to N-1. 
